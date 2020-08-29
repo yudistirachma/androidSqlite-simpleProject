@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sqlLiteRahmaYudistira</string>
+    <string name="surname">surname</string>
+    <string name="marks">marks</string>
+    <string name="name">name</string>
+    <string name="save">save</string>
+    <string name="show_all">Show All</string>
+    <string name="update">Update</string>
+    <string name="id">Id</string>
+    <string name="delete">delete</string>
+    <string name="nama">nama</string>
+    <string name="alamat">alamat</string>
+    <string name="agama">agama</string>
+    <string name="jenis_kelamin">jenis kelamin</string>
+</resources>
